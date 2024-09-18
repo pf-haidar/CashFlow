@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A038F5AE-1A24-4006-A78B-D135CF15AEF2}|tests\\Validators.Test\\Validators.Test.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\tests\\validators.test\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A038F5AE-1A24-4006-A78B-D135CF15AEF2}|tests\\Validators.Test\\Validators.Test.csproj|solutionrelative:tests\\validators.test\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A47B357-097F-432E-AADD-B3151C316540}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A47B357-097F-432E-AADD-B3151C316540}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestRegisterExpenseJsonBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:58:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterExpenseValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\tests\\Validators.Test\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Test\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\tests\\Validators.Test\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeToolTip": "tests\\Validators.Test\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:58:04.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

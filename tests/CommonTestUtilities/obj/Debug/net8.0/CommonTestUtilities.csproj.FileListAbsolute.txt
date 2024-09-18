@@ -1,0 +1,15 @@
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTe.14C365E1.Up2Date
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll

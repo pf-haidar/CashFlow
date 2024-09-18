@@ -1,0 +1,11 @@
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

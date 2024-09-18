@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWmDybJzQt8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haidar\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
