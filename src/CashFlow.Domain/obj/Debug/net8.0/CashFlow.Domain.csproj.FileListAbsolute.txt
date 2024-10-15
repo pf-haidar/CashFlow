@@ -9,3 +9,4 @@ C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\D
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
