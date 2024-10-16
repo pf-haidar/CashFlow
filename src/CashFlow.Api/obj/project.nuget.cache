@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TpbkR7fzdKI=",
+  "dgSpecHash": "0nCIOQnNd0c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Haidar\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
