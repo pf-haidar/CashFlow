@@ -50,3 +50,4 @@ C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Api\bin\Debu
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\AutoMapper.dll
