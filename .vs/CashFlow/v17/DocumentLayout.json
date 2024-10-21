@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFED7FAE-E7EE-4B93-8CAA-3DF4DD59A144}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFED7FAE-E7EE-4B93-8CAA-3DF4DD59A144}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18223503-B37D-4F0E-B43A-41B2F69C8DC7}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18223503-B37D-4F0E-B43A-41B2F69C8DC7}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:10:32.334Z",
+              "WhenOpened": "2024-10-21T22:09:43.09Z",
               "EditorCaption": ""
             }
           ]
