@@ -13,3 +13,4 @@ C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
 C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll
+C:\Users\Haidar\Documents\Projetos\MyProjects\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.sourcelink.json
