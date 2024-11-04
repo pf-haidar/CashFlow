@@ -9,6 +9,11 @@
       "CashFlow.Domain/1.0.0": {
         "runtime": {
           "CashFlow.Domain.dll": {}
+        },
+        "resources": {
+          "pt-BR/CashFlow.Domain.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       }
     }
