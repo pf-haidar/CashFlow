@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A682D37-041D-4FD9-80FC-3674A096FC68}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.application\\usecases\\expenses\\reports\\excel\\generateexpensesreportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A682D37-041D-4FD9-80FC-3674A096FC68}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\reports\\excel\\generateexpensesreportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A682D37-041D-4FD9-80FC-3674A096FC68}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.application\\usecases\\expenses\\reports\\pdf\\generateexpensesreportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A682D37-041D-4FD9-80FC-3674A096FC68}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\reports\\pdf\\generateexpensesreportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B19D04B5-0683-482F-8299-3CCD9DC05789}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B19D04B5-0683-482F-8299-3CCD9DC05789}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:src\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CE72F41-CA74-4F7C-B227-A71641499A01}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\cashflow.domain\\reports\\resourcereportgenerationmessages.pt-br.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5CE72F41-CA74-4F7C-B227-A71641499A01}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\reports\\resourcereportgenerationmessages.pt-br.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFED7FAE-E7EE-4B93-8CAA-3DF4DD59A144}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{FFED7FAE-E7EE-4B93-8CAA-3DF4DD59A144}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18223503-B37D-4F0E-B43A-41B2F69C8DC7}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\cashflow\\src\\cashflow.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18223503-B37D-4F0E-B43A-41B2F69C8DC7}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CE72F41-CA74-4F7C-B227-A71641499A01}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\cashflow.domain\\reports\\resourcereportgenerationmessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5CE72F41-CA74-4F7C-B227-A71641499A01}|src\\CashFlow.Domain\\CashFlow.Domain.csproj|solutionrelative:src\\cashflow.domain\\reports\\resourcereportgenerationmessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,53 +30,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResourceErrorMessages.resx",
-              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "DocumentIndex": 1,
+              "Title": "ResourceReportGenerationMessages.pt-BR.resx",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.pt-BR.resx",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.pt-BR.resx",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.pt-BR.resx",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.pt-BR.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-04T22:24:27.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T21:10:26.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpensesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "RelativeToolTip": "src\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwDYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T19:20:00.12Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "ResourceReportGenerationMessages.resx",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.resx",
+              "RelativeDocumentMoniker": "src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.resx",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.resx",
+              "RelativeToolTip": "src\\CashFlow.Domain\\Reports\\ResourceReportGenerationMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-12T21:10:25.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenerateExpensesReportExcelUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpensesReportExcelUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpensesReportExcelUseCase.cs",
-              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpensesReportExcelUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Excel\\GenerateExpensesReportExcelUseCase.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAAgAAAA",
+              "Title": "GenerateExpensesReportPdfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Reports\\Pdf\\GenerateExpensesReportPdfUseCase.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:31:11.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Api\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Api\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ReportController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:56:17.849Z",
+              "WhenOpened": "2024-11-06T20:45:03.441Z",
               "EditorCaption": ""
             }
           ]
