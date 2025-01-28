@@ -12,3 +12,23 @@ Dentre os pacotes NuGet utilizados, o **AutoMapper** é o responsável pelo mape
 - **Testes de Unidade:** Testes abrangentes com FluentAssertions para garantir a funcionalidade e a qualidade.
 - **Geração de Relatórios:** Capacidade de exportar relatórios detalhados para **PDF e Excel**, oferecendo uma análise visual e eficaz das despesas.
 - **RESTFul API com Documentação Swaggger:** Interface documentada que facilita a integração e o teste por parte dos desenvolvedores.
+
+### Getting Started
+
+Para obter uma cópia local funcionando, siga estes passos simples.
+
+## Requisitos
+
+- Visual Studio versão 2022+
+- Windows 10+ ou Linux/MacOS com [.NET SDK](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0) instalado
+- MySQL Server
+
+## Instalação
+
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/pf-haidar/CashFlow.git
+    ```
+
+2. Preencha as informações no arquivos `appsettings.Development.json`.
+3. Execute a API
