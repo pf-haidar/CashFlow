@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "prn9l0Wz1IA=",
+  "dgSpecHash": "OgU0EV/wzhg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Haidar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.8\\microsoft.entityframeworkcore.analyzers.8.0.8.nupkg.sha512",
