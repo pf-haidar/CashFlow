@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OgU0EV/wzhg=",
+  "dgSpecHash": "yabn5cxub2c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -12,14 +12,20 @@
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
     "C:\\Users\\Haidar\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
-    "C:\\Users\\Haidar\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512"
+    "C:\\Users\\Haidar\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",
+    "C:\\Users\\Haidar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512"
   ],
   "logs": []
 }
